@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UPD.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UE4\CPPdemo\Intermediate\Build\Win64\CPPdemoEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\UE4\CPPdemo\Plugins\UPD\Intermediate\Build\Win64\UE4Editor\Development\UPD\Module.UPD.cpp.obj"
+"E:\UE4\CPPdemo\Plugins\UPD\Intermediate\Build\Win64\UE4Editor\Development\UPD\Module.UPD.gen.cpp.obj"
+"E:\UE4\CPPdemo\Plugins\UPD\Intermediate\Build\Win64\UE4Editor\Development\UPD\PCLaunch.rc.res"
+/OUT:"E:\UE4\CPPdemo\Plugins\UPD\Intermediate\Build\Win64\UE4Editor\Development\UPD\UE4Editor-UPD.lib"
